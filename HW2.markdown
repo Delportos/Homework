@@ -1,11 +1,13 @@
 ---
 layout: page
 title: HW2
-permalink:/HW2/
+permalink: /HW2/
 ---
+
 ## This is a Heading
 # Here's a smaller heading
 This is a paragraph
+
 **This will be bold** ~~this will be string through~~ **this will be underlined**
 # Lists
 ## Unordered
